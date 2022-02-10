@@ -1,0 +1,15 @@
+current directory: /Users/ak/rails_project2022/rails_6_projects/test_app_6/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.10.3/ext/bootsnap
+/Users/ak/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/ak/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20220208-4673-iavq7q.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ak/rails_project2022/rails_6_projects/test_app_6/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.10.3/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/ak/rails_project2022/rails_6_projects/test_app_6/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.10.3/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/ak/rails_project2022/rails_6_projects/test_app_6/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.10.3/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20220208-4673-1msdkcp/bootsnap
